@@ -1,0 +1,17 @@
+{
+  "name": "alura-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.1",
+    "jsonfile-promised": "0.0.1",
+    "moment": "^2.17.1"
+  }
+}
